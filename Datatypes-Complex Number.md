@@ -24,4 +24,4 @@ print(x.imag)
 <img width="890" height="445" alt="image" src="https://github.com/user-attachments/assets/4696a51c-dc5c-4bb8-afb4-4409aed83caa" />
 
 ## Result
-Thus the program is executed and verified successfully.
+Thus, the program is executed and verified successfully.
